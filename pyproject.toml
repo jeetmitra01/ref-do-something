@@ -22,3 +22,14 @@ build-backend = "uv_build"
 dev = [
     "pytest>=9.2.0",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = [
+    # pymupdf's SWIG bindings warn on import under Python 3.13; not ours to fix.
+    "ignore:builtin type .* has no __module__ attribute:DeprecationWarning",
+]
+markers = [
+    "pdf: needs the IFAB PDF in data/raw/ (skipped when it is absent)",
+]

@@ -1,0 +1,24 @@
+{
+  "edition": "2026-27",
+  "page_count": 260,
+  "laws": [
+    {"law": 1, "title": "The Field of Play", "divider": 44, "first": 45, "last": 53},
+    {"law": 2, "title": "The Ball", "divider": 54, "first": 55, "last": 57},
+    {"law": 3, "title": "The Players", "divider": 58, "first": 59, "last": 65},
+    {"law": 4, "title": "The Players’ Equipment", "divider": 66, "first": 67, "last": 71},
+    {"law": 5, "title": "The Referee", "divider": 72, "first": 73, "last": 83},
+    {"law": 6, "title": "The Other Match Officials", "divider": 84, "first": 85, "last": 91},
+    {"law": 7, "title": "The Duration of the Match", "divider": 92, "first": 93, "last": 95},
+    {"law": 8, "title": "The Start and Restart of Play", "divider": 96, "first": 97, "last": 99},
+    {"law": 9, "title": "The Ball in and out of Play", "divider": 100, "first": 101, "last": 101},
+    {"law": 10, "title": "Determining the Outcome of a Match", "divider": 102, "first": 103, "last": 107},
+    {"law": 11, "title": "Offside", "divider": 108, "first": 109, "last": 113},
+    {"law": 12, "title": "Fouls and Misconduct", "divider": 114, "first": 115, "last": 129},
+    {"law": 13, "title": "Free Kicks", "divider": 130, "first": 131, "last": 133},
+    {"law": 14, "title": "The Penalty Kick", "divider": 134, "first": 135, "last": 139},
+    {"law": 15, "title": "The Throw-in", "divider": 140, "first": 141, "last": 143},
+    {"law": 16, "title": "The Goal Kick", "divider": 144, "first": 145, "last": 147},
+    {"law": 17, "title": "The Corner Kick", "divider": 148, "first": 149, "last": 151}
+  ],
+  "var_divider": 152
+}
